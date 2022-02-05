@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @undefined-w
-- 👀 I’m interested in Minecraft, Discord Bots, Web Development, Arduino, Cutting-edge tech.
+- 👀 I’m interested in Minecraft, Discord Bots, Web Development, Arduino.
 - 🌱 I’m currently learning Telecommunications Engineering and all types of coding.
 - 💞️ I’m looking to collaborate on any project that seems interesting.
 - 📫 How to reach me: LinkedIn.
